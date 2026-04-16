@@ -104,4 +104,4 @@ Tunnel URLs die when the script stops. Re-run to get new ones.
 
 ## License
 
-MIT
+MIT — FLUKER FREEFORM · [freeformsystems.ai](https://freeformsystems.ai)
